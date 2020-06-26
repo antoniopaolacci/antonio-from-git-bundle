@@ -1,0 +1,6 @@
+code: antonio-from-git-bundle
+description: This is an example of an Entando 6 bundle (from-git)
+
+components:
+    widgets:
+        - widgets/example-widget.yaml
